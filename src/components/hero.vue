@@ -76,15 +76,21 @@
             </div>
         </div>
         <div class="absolute bottom-0 left-5 flex items-center justify-center gap-5">
-            <div class="logo overflow-hidden text-white bg-white/10 backdrop-blur-lg px-4 py-4 rounded-full border-2 border-white/20">
-                <img src="../assets/image/github.png" alt="" class="w-4 h-4">
-            </div>
-            <div class="logo overflow-hidden text-white bg-white/10 backdrop-blur-lg px-4 py-4 rounded-full border-2 border-white/20">
-                <img src="../assets/image/linkedin.png" alt="" class="w-4 h-4">
-            </div>
-            <div class="logo overflow-hidden text-white bg-white/10 backdrop-blur-lg px-4 py-4 rounded-full border-2 border-white/20">
-                <img src="../assets/image/instagram.png" alt="" class="w-4 h-4">
-            </div>
+            <a href="https://github.com/Prawira123" target="blank">
+                    <div class="logo overflow-hidden cursor-pointer text-white bg-white/10 backdrop-blur-lg px-4 py-4 rounded-full border-2 border-white/20">
+                        <img src="../assets/image/github.png" alt="" class="w-4 h-4">
+                    </div>
+                </a>
+                <a href="https://www.linkedin.com/in/erick-prawira-b31262356/" target="blank">
+                    <div class="logo overflow-hidden cursor-pointer text-white bg-white/10 backdrop-blur-lg px-4 py-4 rounded-full border-2 border-white/20">
+                        <img src="../assets/image/linkedin.png" alt="" class="w-4 h-4">
+                    </div>
+                </a>
+                <a href="https://www.instagram.com/erickprwra_" target="blank">
+                    <div class="logo overflow-hidden cursor-pointer text-white bg-white/10 backdrop-blur-lg px-4 py-4 rounded-full border-2 border-white/20">
+                        <img src="../assets/image/instagram.png" alt="" class="w-4 h-4">
+                    </div>
+                </a>
         </div>
     </div>
     <img src="../assets/image/me.png" alt="" class="absolute lg:top-0 -bottom-40 right-1/2 translate-x-1/2 lg:w-[700px] w-[800px] h-auto lg:h-auto">
