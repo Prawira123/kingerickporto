@@ -33,15 +33,21 @@
                  />
             </div>
             <div class="flex items-center justify-between gap-5">
-                <div class="logo overflow-hidden text-white bg-white/10 backdrop-blur-lg px-4 py-4 rounded-full border-2 border-white/20">
-                    <img src="../assets/image/github.png" alt="" class="w-8 h-8">
-                </div>
-                <div class="logo overflow-hidden text-white bg-white/10 backdrop-blur-lg px-4 py-4 rounded-full border-2 border-white/20">
-                    <img src="../assets/image/linkedin.png" alt="" class="w-8 h-8">
-                </div>
-                <div class="logo overflow-hidden text-white bg-white/10 backdrop-blur-lg px-4 py-4 rounded-full border-2 border-white/20">
-                    <img src="../assets/image/instagram.png" alt="" class="w-8 h-8">
-                </div>
+                <a href="https://github.com/Prawira123" target="blank">
+                    <div class="logo overflow-hidden cursor-pointer text-white bg-white/10 backdrop-blur-lg px-4 py-4 rounded-full border-2 border-white/20">
+                        <img src="../assets/image/github.png" alt="" class="w-8 h-8">
+                    </div>
+                </a>
+                <a href="https://www.linkedin.com/in/erick-prawira-b31262356/" target="blank">
+                    <div class="logo overflow-hidden cursor-pointer text-white bg-white/10 backdrop-blur-lg px-4 py-4 rounded-full border-2 border-white/20">
+                        <img src="../assets/image/linkedin.png" alt="" class="w-8 h-8">
+                    </div>
+                </a>
+                <a href="https://www.instagram.com/erickprwra_" target="blank">
+                    <div class="logo overflow-hidden cursor-pointer text-white bg-white/10 backdrop-blur-lg px-4 py-4 rounded-full border-2 border-white/20">
+                        <img src="../assets/image/instagram.png" alt="" class="w-8 h-8">
+                    </div>
+                </a>
             </div>
         </div>
     </div>
