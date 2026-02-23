@@ -1,6 +1,6 @@
 <template>
   <div class="w-full h-screen relative">
-    <div class="sticky top-[30px] z-10">
+    <div class="sticky lg:top-[30px] top-[10px] z-10">
       <Nav/>
     </div>
     <div class="z-0 absolute top-0 left-0 w-full h-full">
